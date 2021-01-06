@@ -1,2 +1,6 @@
-# Supplementary_Material
-Storage / Hosting for Supplementary Material
+# Supplementary Material
+
+* This repository contains supplementary material
+
+## Content
+
